@@ -1,0 +1,15 @@
+{
+  "name": "registro-ocorrencias",
+  "version": "1.0.0",
+  "description": "Sistema para registro de ocorrências",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "fs-extra": "^11.3.0",
+    "xlsx": "^0.18.5"
+  }
+}
